@@ -1,4 +1,9 @@
-## Hi there 👋
+🔭 Master student @ Architecture & Compiler for Embedded Systems Lab., Kyungpook National University.
+
+🌱 I'm currently learning:
+  - AUTOSAR
+  - In-vehicle network 
+  - AI on the Edge
 
 <!--
 **lsin07/lsin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
