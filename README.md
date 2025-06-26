@@ -2,8 +2,9 @@
 
 🌱 I'm currently learning:
   - AUTOSAR
-  - In-vehicle network 
   - AI on the Edge
+  - Mixed-criticality System
+  - Compiler for AI Hardwares
 
 <!--
 **lsin07/lsin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
